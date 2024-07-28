@@ -1,0 +1,86 @@
+nav{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    background-color: white;
+}
+
+.navbar-brand img{
+    width: 150px;
+}
+
+.btn{
+    background-color: transparent;
+    border: 1px solid #000000;
+}
+.btn:hover{
+    background-color: #ffb700;
+    border: 1px solid #ffb700;
+    color: white;
+}
+
+.nav-item a{
+    font-size: 20px;
+    color: #000000;
+}
+.nav-item a.activ{
+    color: #ff9909 !important;
+}
+.nav-item a:hover{
+    font-size: 21px;
+    color: #ff9909;
+}
+
+.CCC{
+    border: none;
+}
+
+.bbb{
+    padding: 15px;
+}
+
+.container{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bi-star-fill{
+    color: #ff9909;
+}
+
+.prix {
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+del{
+    color: gray;
+}
+
+.prix-checked{
+    font-weight: 600;
+}
+
+.achat button{
+    padding: 7px 15px;
+    border: 1px solid rgb(122, 122, 122);    border-radius: 8px;
+    background-color: #ff9909;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+    color: #ffffff;
+    border: none;
+}
+
+.achat button:hover{
+    background-color: #fbb85b;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+
+}
+
+.temoignage img{
+    width: 50px;
+    border-radius: 30px;
+}
+
+.temoignage {
+    border: 1px solid rgb(122, 122, 122);
+    border-radius: 8px;
+    padding: 15px;
+}

@@ -1,0 +1,29 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  footer{
+    background-color: #F5F5F5;
+    padding: 10px;
+  }
+
+  footer img{
+    width: 170px;
+  }
+
+  footer a{
+    color: #000000;
+    text-decoration: none;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+  }
+
+  footer p{
+    text-align: center;
+    font-weight: 500;
+  }
